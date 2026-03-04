@@ -8,7 +8,7 @@
 
 -Alejo De Miguel <https://github.com/AlejoDeMiguel/Modulo_1>
 
--Bautista Calderon <https://github.com/baucalderon-2026/ENTREGA>
+-Bautista Calderon <https://github.com/baucalderon-2026/Modulo-1>
 
 -Lisandro Cerdan <https://github.com/Lisandrocerdan/M-DULO-1>
 
