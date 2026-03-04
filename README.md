@@ -12,4 +12,7 @@
 
 -Lisandro Cerdan <https://github.com/Lisandrocerdan/M-DULO-1>
 
+-Nathan Graff <https://github.com/nathangrf>
+
  $e^{i \pi} + 1 = 0$ 
+ $$E = mc^{2}$$
