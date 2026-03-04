@@ -1,6 +1,6 @@
 # ENTREGA
 
-**Grupo Los Palmeras**
+## **Grupo Los Palmeras**
 
 ## Integrantes:
 
