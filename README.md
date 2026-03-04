@@ -11,3 +11,5 @@
 -Bautista Calderon <https://github.com/baucalderon-2026/ENTREGA>
 
 -Lisandro Cerdan <https://github.com/Lisandrocerdan/M-DULO-1>
+
+equation: $e^{i \pi} + 1 = 0$ 
