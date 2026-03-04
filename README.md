@@ -1,5 +1,4 @@
 # ENTREGA
-Medicion de Materiales 2026
 
 **Grupo Los Palmeras**
 
