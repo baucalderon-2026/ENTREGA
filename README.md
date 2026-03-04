@@ -12,4 +12,4 @@
 
 -Lisandro Cerdan <https://github.com/Lisandrocerdan/M-DULO-1>
 
-equation: $e^{i \pi} + 1 = 0$ 
+ $e^{i \pi} + 1 = 0$ 
