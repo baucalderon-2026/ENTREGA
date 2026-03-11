@@ -2,6 +2,9 @@
 
 ## **Grupo Los Palmeras**
 
+![WhatsApp Image 2026-03-11 at 18 49 13](https://github.com/user-attachments/assets/2d3a475b-b177-4ebe-8e03-f72221993dab)
+
+
 ## Integrantes:
 
 -Facundo Moreschi <https://github.com/fmoreschi/_-modulo_1>
