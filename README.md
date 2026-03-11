@@ -14,7 +14,7 @@
 
 -Nathan Graff <https://github.com/nathangrf/modulo_1>
 
--Luciano Figuera <link del github del lucho>
+-Luciano Figuera <https://github.com/LucianoFiguera/M-dulo-1.git>
 
  $e^{i \pi} + 1 = 0$ 
  
