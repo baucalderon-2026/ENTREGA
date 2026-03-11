@@ -23,4 +23,4 @@
 |Bautista Calderon|14351|2614189770|baugamer67@gmail.com|<https://github.com/baucalderon-2026/Modulo-1>|
 |Lisandro Cerdan|14494|2615521958|lisandro.cerdan@gmail.com|<https://github.com/nathangrf/modulo_1>|
 |Nathan Graff|no tengo|+33629413905|nathan.graff@free.fr|<https://github.com/nathangrf/modulo_1>|
-|Luciano Figuera||||<https://github.com/LucianoFiguera/M-dulo-1.git>|
+|Luciano Figuera|14450|2616551973|lfigueralucchetti@gmail.com|<https://github.com/LucianoFiguera/M-dulo-1.git>|
