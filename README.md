@@ -22,7 +22,7 @@
 
 |Nombre|Legajo|Whatsapp|Mail|Link|
 |-----------|-----------|-----------|-----------|-----------|
-|Facundo Moreschi||||<https://github.com/fmoreschi/_-modulo_1>|
+|Facundo Moreschi|13760|2612531923|facumoreschi@gmail.com|<https://github.com/fmoreschi/_-modulo_1>|
 |Alejo De Miguel|14493|2616812902|demiguel.alejo.com.2018.5@gmail.com|<https://github.com/AlejoDeMiguel/Modulo_1>|
 |Bautista Calderon||||<https://github.com/baucalderon-2026/Modulo-1>|
 |Lisandro Cerdan||||<https://github.com/nathangrf/modulo_1>|
