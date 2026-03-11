@@ -14,6 +14,8 @@
 
 -Nathan Graff <https://github.com/nathangrf/modulo_1>
 
+-Luciano Figuera <link del github del lucho>
+
  $e^{i \pi} + 1 = 0$ 
  
  $$E = mc^{2}$$
