@@ -19,3 +19,12 @@
  $e^{i \pi} + 1 = 0$ 
  
  $$E = mc^{2}$$
+
+|Nombre|Legajo|Whatsapp|Mail|Link|
+|-----------|-----------|-----------|-----------|-----------|
+|Facundo Moreschi||||<https://github.com/fmoreschi/_-modulo_1>|
+|Alejo De Miguel|14493|2616812902|demiguel.alejo.com.2018.5@gmail.com|<https://github.com/AlejoDeMiguel/Modulo_1>|
+|Bautista Calderon||||<https://github.com/baucalderon-2026/Modulo-1>|
+|Lisandro Cerdan||||<https://github.com/nathangrf/modulo_1>|
+|Nathan Graff||||<https://github.com/nathangrf/modulo_1>|
+|Luciano Figuera||||<https://github.com/LucianoFiguera/M-dulo-1.git>|
