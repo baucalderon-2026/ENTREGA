@@ -16,10 +16,6 @@
 
 -Luciano Figuera <https://github.com/LucianoFiguera/M-dulo-1.git>
 
- $e^{i \pi} + 1 = 0$ 
- 
- $$E = mc^{2}$$
-
 |Nombre|Legajo|Whatsapp|Mail|Link|
 |-----------|-----------|-----------|-----------|-----------|
 |Facundo Moreschi|13760|2612531923|facumoreschi@gmail.com|<https://github.com/fmoreschi/_-modulo_1>|
