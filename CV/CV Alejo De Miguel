@@ -1,0 +1,41 @@
+\documentclass[11pt,a4paper,sans]{article}
+
+% --- Paquetes --- \usepackage[utf8]{inputenc} \usepackage[spanish]{babel} \usepackage[left=1.5cm, right=1.5cm, top=1.5cm, bottom=1.5cm]{geometry} \usepackage{enumitem} \usepackage{titlesec} \usepackage{hyperref}
+
+% --- Configuración de Estilo --- \titleformat{\section}{\large\bfseries\uppercase}{}{0pt}{}[\titlerule] \titlespacing{\section}{0pt}{10pt}{5pt} \setlist[itemize]{noitemsep, topsep=0pt, leftmargin=15pt} \pagestyle{empty}
+
+\begin{document}
+
+% --- Datos Personales --- \begin{center} {\Huge \textbf{Alejo De Miguel}} % [cite: 469] \ \vspace{5pt} Estudiante de Ingeniería Industrial % [cite: 469] \ \vspace{2pt} 261 681-2902 % [cite: 470] 
+|
+ demiguel.alejo@uncuyo.edu.ar % [cite: 471] \ \vspace{2pt} LinkedIn % [cite: 471] \end{center}
+
+\section{Resumen} Soy un estudiante de Ingeniería Industrial con adaptabilidad en entornos internacionales y habilidades en comunicación y liderazgo. % [cite: 465, 466]
+
+\section{Educación} \textbf{Universidad Nacional de Cuyo} \hfill Mendoza, Argentina % [cite: 467] \ \textit{Ingeniería Industrial} \hfill Cursando cuarto año % [cite: 468] \begin{itemize} \item Promedio 8,77 % [cite: 468] \end{itemize}
+
+\vspace{5pt}
+
+\textbf{Escuela del Magisterio} \hfill Mendoza, Argentina % [cite: 472] \ \textit{Bachiller en Comunicación} \hfill 2018 -- 2022 % [cite: 477, 478] \begin{itemize} \item Promedio 9,48 % [cite: 472] \end{itemize}
+
+\section{Experiencias} \textbf{Preuniversitario Martin} \hfill 2023 -- Actualidad % [cite: 474, 476] \ \textit{Profesor de Matemática y Física} % [cite: 475] \begin{itemize} \item Planificación y dictado de clases de Matemática y Física para aulas de 20 alumnos. % [cite: 479] \item Preparación de material de estudio y seguimiento de evolución. % [cite: 479] \end{itemize}
+
+\vspace{5pt}
+
+\textbf{Shawnee Mountain Ski Area} \hfill Pensilvania, Estados Unidos % [cite: 501, 504] \ \textit{Instructor de Ski y Snowboard} \hfill 2024 -- 2025 % [cite: 502, 505] \begin{itemize} \item Como parte de intercambio "Work & Travel". % [cite: 503] \item Instrucción de clases diarias de ski y snowboard para grupos de hasta 10 personas o personalizadas. % [cite: 506] \item Enseñanza desde nivel inicial, normas de seguridad, acompañamiento hasta niveles superiores. % [cite: 507] \item Atención directa para clientes internacionales en idioma inglés. % [cite: 508] \end{itemize}
+
+\section{Habilidades} \begin{itemize} \item Microsoft Excel % [cite: 482] \item AutoCAD % [cite: 483] \item Microsoft Project % [cite: 484] \item Comunicación % [cite: 485] \item Trabajo en equipo % [cite: 486] \item Adaptabilidad % [cite: 486] \item Manejo de IA % [cite: 487] \end{itemize}
+
+\section{Certificados} \begin{itemize} \item "Domina la IA con Gemini" (2026): Santander Open Academy. Contenido desarrollado por Google. % [cite: 488, 489, 490] \item "Excel" (2026): Santander Open Academy. % [cite: 491, 492, 493] \item "Jornada de Educación Financiera y concurso de Emprendedurismo": Banco Ciudad en conjunto con UNCUYO. % [cite: 494, 495] \end{itemize}
+
+\section{Idiomas} \begin{itemize} \item Inglés: C1 - Avanzado % [cite: 497, 498] \item Francés: A2 - Básico % [cite: 499, 500] \end{itemize}
+
+\section{Proyectos} \textbf{Participación en Desafío Emprende U} \hfill 2018 % [cite: 510, 512] \ \textit{(Maratón de Ideas - Desafío de Innovación)} % [cite: 511] \begin{itemize} \item Desarrollo grupal de un proyecto sobre sensores de humedad para árboles para la optimización de uso del recurso hídrico provincia de Mendoza. % [cite: 513] \end{itemize}
+
+\vspace{5pt}
+
+\textbf{Participación en Centro de Estudiantes} \hfill 2021 % [cite: 514, 515] \ \textit{Escuela del Magisterio} % [cite: 515] \begin{itemize} \item Vocal de la secretaría de Deportes, responsable de la organización de actividades recreativas e instructivas para el alumnado de la escuela. % [cite: 516] \end{itemize}
+
+\section{Otros Intereses} Ajedrez, Kayak, Guitarra, Handball, Cubos Rubik. % [cite: 517, 518, 519, 520, 521]
+
+\end{document}
