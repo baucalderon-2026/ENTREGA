@@ -28,3 +28,31 @@
 |Lisandro Cerdan|14494|2615521958|lisandro.cerdan@gmail.com|<https://github.com/nathangrf/modulo_1>|
 |Nathan Graff|no tengo|+33629413905|nathan.graff@free.fr|<https://github.com/nathangrf/modulo_1>|
 |Luciano Figuera|14450|2616551973|lfigueralucchetti@gmail.com|<https://github.com/LucianoFiguera/M-dulo-1.git>|
+## Documento Guía de Shortcuts de Markdown
+
+https://docs.google.com/document/d/1gTwa3JrvCNB1ATedmgW6vzXG4IrsRu6_j8JPmejUH_c/edit?usp=sharing
+
+## Modelo de armado de una página web:
+
+# index.html
+<html>
+
+  <head>
+    <h1> Mi primer pagina web</h1>
+  </head>
+
+  <body>
+    Esto es el cuerpo del texto
+    <p> Esto es un parrafo</p>
+
+    <u1>
+
+      <li>primero</li>
+      <li>segundo</li>
+      <li>tercero</li>
+      
+    </u1>
+  </body>
+  
+</html>
+
