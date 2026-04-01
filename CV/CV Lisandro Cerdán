@@ -1,0 +1,66 @@
+\begin{document}
+% you can upload a photo and include it here...
+%\begin{wrapfigure}{l}{0.5\textwidth}
+%	\vspace*{-2em}
+%		\includegraphics[width=0.15\textwidth]{photo}
+%\end{wrapfigure}
+
+\MyName{Lisandro Cerdán Úbeda}
+
+
+\sepspace
+
+%%% Personal details
+%%% ------------------------------------------------------------
+\NewPart{Datos personales}{}
+
+\PersonalEntry{Nacimiento}{06 de Septiembre, 2004}
+%\PersonalEntry{Address}{111 First St, New York}
+\PersonalEntry{Teléfono}{(+54) 2615521958}
+\PersonalEntry{E--Mail}{\url{lisandro.cerdan@gmail.com}}
+
+%%% Descripcion
+%%% ------------------------------------------------------------
+\NewPart{Descripción}{}
+
+\EducationEntry{Futuro Ingeniero Industrial altamente motivado por aplicar herramientas de gestión y optimización en el mundo real. Con fuerte vocación por la resolución de problemas complejos, busco mi primera oportunidad profesional para sumar mi visión técnica, mi energía y mi capacidad de adaptación a los desafíos de la industria. Interes. Mi compromiso con el desarrollo profesional va más allá del título de grado. Tengo la firme convicción y el entusiasmo de continuar mi formación académica al recibirme, con la ambición de realizar una maestría o posgrado. }
+\sepspace
+
+
+%%% Education
+%%% ------------------------------------------------------------
+\NewPart{Educación}{}
+
+\EducationEntry{Ingeniería Industrial }{2023-2026}{Universidad Nacional de Cuyo}
+\sepspace
+\EducationEntry{Estudio Secundario}{2018-2022}{Colegio Santa María, Univerdad Champagnat}
+\sepspace
+\EducationEntry{Estudio Primario }{2011-2017}{Colegio Nuestra Señora de la Misericordia}
+\sepspace
+
+\EducationEntry{Curso extracurricular}{2024}{Federación Mendocina de Gimnasia}{Juez Provincial de Gimnasia Artistica Masculina a nivel de ejecución y dificultad,}
+
+
+%%% Skills
+%%% ------------------------------------------------------------
+\NewPart{Habilidades personales}{}
+
+\SkillsEntry{Idiomas}{Español (nativo)}
+\SkillsEntry{}{Inglés (nivel 3).}
+\SkillsEntry{}{Portugués (nivel 1)}
+
+\SkillsEntry{Software}{Excel, Project...}
+\SkillsEntry{Soft skills}{Trabajo en equipos multiculturales}
+\SkillsEntry{}{Flexibilidad y adaptación ante cambios en el proyecto}
+\SkillsEntry{}{Gran capacidad de comunicación}
+\SkillsEntry{}{Análisis y resolución de problemas}
+%\SkillsEntry{}{}
+
+
+
+
+%%% References
+%%% ------------------------------------------------------------
+%\NewPart{References}{}
+%Available upon request
+\end{document}
