@@ -1,0 +1,104 @@
+\documentclass{resume} 
+
+\usepackage{multicol}
+\usepackage{graphicx}
+\usepackage[left=0.4 in,top=0.4in,right=0.4 in,bottom=0.4in]{geometry} % Márgenes del documento
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\usepackage{enumitem}
+\setlist{nolistsep}
+
+\begin{document}
+
+\begin{minipage}[c]{\linewidth}
+\begin{minipage}[c]{\linewidth}
+\vspace{-20pt}
+
+% CONFIGURACIÓN DE DATOS PERSONALES %
+
+\begin{flushright}
+    \Large{+54 261 253 1923}
+\end{flushright}
+
+{\Huge \bf{Facundo Moreschi}} \hfill \Large{\href{mailto:facumoreschi@gmail.com}{\color{black}facumoreschi@gmail.com}} 
+\\ \vspace{-.6cm}
+
+\begin{flushright}
+\Large{\href{https://www.linkedin.com/in/usuario/}{\color{black}Perfil de LinkedIn} }
+\end{flushright} 
+\end{minipage}
+\end{minipage}
+
+\vspace{0pt}
+
+\begin{rSection}{Estudios}
+{\bf Bachiller en Economía y Administración } \hfill {2016 - 2020}\\
+Colegio Universitario Santa María \vspace{-0.65cm}\\
+ \vspace{.2 cm}\\
+{\bf Estudiante de grado en Ingeniería Industrial} \hfill {2021 - Presente}\\
+Universidad Nacional de Cuyo \vspace{-0.65cm}\\
+
+\end{rSection}
+
+\begin{rSection}{Experiencia laboral}
+
+\textbf{MCR Contadores} \hfill {Ago 2023 - Feb 2024}\\
+Funciones y responsabilidades.\vspace{-0.65cm}\\
+\begin{itemize}
+    \item Conciliación bancaria.\vspace{2pt}
+    \item Uso de Excel y software Xubio.\vspace{2pt} 
+\end{itemize}
+
+\textbf{Grow/ProShow} \hfill {2023 - 2025}\\
+Funciones y responsabilidades.\vspace{-0.65cm}\\
+\begin{itemize}
+    \item Atención al público.\vspace{2pt}
+    \item Encargado de las barras de bebidas y las cajas en eventos.\vspace{2pt} 
+    
+\end{itemize}
+\end{rSection}
+
+\begin{rSection}{Idiomas}
+
+{\bf Español} : Nativo  \vspace{-2pt}
+
+{\bf Inglés} : B2 Cambridge University First Certificate y Curso C1 \textit{Instituto Cultural Mendoza} \hfill {2019 y 2022}\vspace{-2pt}
+
+{\bf Italiano} : Curso B1 \textit{Academia Dante Alighieri} \hfill {2025}
+
+\end{rSection}
+
+\vspace{5pt}
+
+\begin{rSection}{Habilidades Técnicas}
+
+\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l } 
+
+Software & Microsoft Excel (Power Query y Solver) y Power BI. \vspace{.15cm}\\ 
+
+\end{tabular}
+
+\end{rSection}
+
+\begin{rSection}{Habilidades Blandas}
+\begin{itemize}
+    \item Capacidad de planificación y organización: aptitud en la priorización de tareas y manejo de múltiples proyectos en paralelo. Enfocado en la metodología de seguimiento y la anticipación de cuellos de botella.\vspace{2pt}
+    \item Liderazgo de equipos: habilidad para coordinar grupos multidisciplinarios, delegando tareas de forma estratégica y fomentando la sinergia interna para alcanzar hitos críticos en tiempo y forma.\vspace{2pt}
+    \item Negociación y resolución de conflictos: capacidad de respuesta y toma de decisiones ante contingencias operativas.\vspace{2pt}
+    \item Pensamiento analítico y sistémico: destreza en el análisis detallado de datos para la toma de decisiones, integrando una perspectiva holística que considera las interdependencias entre departamentos y procesos.\vspace{2pt}
+    
+\end{itemize}
+\vspace{.15cm}\\ 
+
+\end{rSection}
+\vspace{5pt}
+
+
+\begin{rSection}{Actividades Extracurriculares} 
+
+\vspace{-1.25em}
+\item \textbf{Deporte.} 12 años en competencias de rugby federado. Experiencia en deportes de mañana como esquí, mountain bike y enduro, y en deportes de raqueta como tenis y pádel.
+\end{rSection}
+
+\end{document}
