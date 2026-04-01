@@ -28,9 +28,14 @@
 |Lisandro Cerdan|14494|2615521958|lisandro.cerdan@gmail.com|<https://github.com/nathangrf/modulo_1>|
 |Nathan Graff|no tengo|+33629413905|nathan.graff@free.fr|<https://github.com/nathangrf/modulo_1>|
 |Luciano Figuera|14450|2616551973|lfigueralucchetti@gmail.com|<https://github.com/LucianoFiguera/M-dulo-1.git>|
-## Documento Guía de Shortcuts de Markdown
+## Documento Guía de Shortcuts de Markdown:
 
 https://docs.google.com/document/d/1gTwa3JrvCNB1ATedmgW6vzXG4IrsRu6_j8JPmejUH_c/edit?usp=sharing
+
+## Modelo de armado de una página web:
+# Colaboratorio.md
+<https://colab.research.google.com/drive/1h3-RZ2Z_hUXG9tfkTV4OVPH6ZUoGkHzP#scrollTo=ExJVo2TdqMq3>
+<img width="612" height="617" alt="image" src="https://github.com/user-attachments/assets/141639da-8a1a-4da2-bab2-f082b15b4caf" />
 
 ## Modelo de armado de una página web:
 
