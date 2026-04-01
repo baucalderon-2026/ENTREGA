@@ -34,25 +34,18 @@ https://docs.google.com/document/d/1gTwa3JrvCNB1ATedmgW6vzXG4IrsRu6_j8JPmejUH_c/
 
 ## Modelo de armado de una página web:
 
-# index.html
 <html>
-
   <head>
     <h1> Mi primer pagina web</h1>
   </head>
-
   <body>
     Esto es el cuerpo del texto
     <p> Esto es un parrafo</p>
-
     <u1>
-
       <li>primero</li>
       <li>segundo</li>
-      <li>tercero</li>
-      
+      <li>tercero</li>     
     </u1>
-  </body>
-  
+  </body>  
 </html>
 
